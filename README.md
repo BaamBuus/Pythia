@@ -12,7 +12,7 @@ fun fact: pythia is a name from ancient greek mythology
 
 ## Installation
 
-1. Get the .exe program.
+1. Get the .exe program. Note: it's in the zip file
 2. Make a /music directory with either MP3 or WMA files.
 3. Run the .exe program `Pythia.exe`
 4. v  i  b  e
